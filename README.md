@@ -21,9 +21,9 @@
 <img width="721" alt="image" src="https://github.com/Kaustubh174/genapikey/assets/38695440/b270c4ad-4319-4090-9a61-c01aabe2566e">
 
 
-<br>7. after you click on it you will need write a name which you can write whatever you want the name to be. The name will not affect anything. After you do that you will receive you API key. Make sure that you copy this link and save it somewhere as you cannot copy this link again from the website.
+<br>7. after you click on it you will need write a name which you can write whatever you want the name to be. The name will not affect anything. After you do that you will receive you API key. __Make sure that you copy this link and save it somewhere as you cannot copy this link again from the website.__
 
-<br>8. Now click done and you have successfully generated the API key which can be used your next AI project.
+<br>8. Now click done and you have successfully generated the API key which can be used your next AI project. __Do not share your API key with anyone as they can use your credits.__
 
 
 
