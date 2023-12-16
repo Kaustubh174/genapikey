@@ -5,6 +5,7 @@
 <br>1. Go on to OpenAI website https://openai.com or simply Google Open AI and click on the first available link. 
 
 <br>2. Then you need to click on Menu on the top left hand side and then you need to log in. If you have not logged in yet you need to sign in
+
 <img width="503" alt="image" src="https://github.com/Kaustubh174/genapikey/assets/38695440/4c2f7ef0-c6a3-425d-a405-442b95d4e837">
 
 <br>3. After login in you will have 2 options to select from. The first one is the to access Chatgpt and the second one is to access API which is for the developers. You need to click on API option.
